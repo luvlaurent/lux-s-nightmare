@@ -1,0 +1,4 @@
+repository "(LUX-S NIGHTMARE)/(LUX-S NIGHTMARE)@4674052522720@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,36 @@
+# Thumbnails
+Thumbnails/
+
+# User-specific files
+.user
+.userprefs
+.idea
+
+# Windows Installer files
+.cab
+.msi
+.msm
+.msp
+
+# Visual Studio files
+.vs
+.vscode
+
+# .NET
+bin/
+obj/
+
+# Unity-specific files
+Library/
+Temp/
+Build/
+BuildSettings/
+UserSettings/
+.gradle/
+
+# Unity Logs
+Logs/
+*.log
+
+git rm --cached Logs/*.log
+
